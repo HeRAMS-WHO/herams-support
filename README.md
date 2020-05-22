@@ -1,4 +1,6 @@
-If you have encountered and issue with the HeRAMS platform or would like to suggest a new feature that would improving the platform, we kindly ask you to submit an issue in our [Github Issue Board](https://github.com/HeRAMS-WHO/herams-support/issues). To help us address your issue in a timely manner, we ask you to follow a few simple guidelines outlined below. 
+# HeRAMS Issue tracker
+
+Welcome to the HeRAMS Issue tracker. If you have encountered and issue with the HeRAMS platform or would like to suggest a new feature that would improving the platform, we kindly ask you to submit an issue in our [Github Issue Board](https://github.com/HeRAMS-WHO/herams-support/issues). To help us address your issue in a timely manner, we ask you to follow a few simple guidelines outlined below. 
 
 If you are new to GitHub, we recommend you have a look at the GitHub Guide on Mastering Issues available [here](https://guides.github.com/features/issues/). 
 
