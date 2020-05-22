@@ -73,7 +73,7 @@ A good issue should always include the following points
 			<td>Issue is related to user access or permissions</td>
         </tr>
 		 <tr>
-            <td rowspan=6>Process</td>
+            <td rowspan=6>Status</td>
             <td>Under review</td>
 			<td>Issue is being reviewed by an administrator</td>
         </tr>
