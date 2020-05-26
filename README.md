@@ -18,7 +18,7 @@ A good issue should always include the following points
 1. **Title**: should give a broad summary of the issue
 2. **Brief description**: Give a brief description of the issue.Try to be concise but specific. This means, only include information required to fix the issue. If an issue is specific to a give page, workspace, user, etc. always make sure to include these details.
 3. **Steps to reproduce the issue**: This is particularly import for bug reports as. The more details you provide, the easier it will be for us to reproduce the issue. Issues that can't be reproduced by an admin cannot be fixed.
-4. **Observed/Expected behavior**: To make sure the issues are understood correctly, briefly explain the difference between the observed and expect/desired behavior. 
+4. **Expected behavior**: To make sure the issues are understood correctly, briefly explain expect/desired behavior. 
 5. **Additional details**: If applicable, try to include screenshots or links that illustrate the issue. This will help us better understand your issue.
 6. **Categorize your issue using labels**: To further precise an issue, we use three sets of labels to classify issues. See the table below for further information.  
 
