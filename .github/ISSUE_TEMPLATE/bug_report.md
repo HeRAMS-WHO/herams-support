@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Brief description**
-Give a brief description of the issue.Try to be concise but specific. This means, only include information required to fix the issue. If an issue is specific to a give page, workspace, user, etc. always make sure to include these details.
+Give a brief description of the issue. If an issue is specific to a give page, workspace, user, etc. always make sure to include these details.
 
 **Steps to reproduce the issue**
 1. Go to '...'
